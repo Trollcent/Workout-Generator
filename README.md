@@ -1,2 +1,4 @@
 # Workout-Generator
-A generator that creates a list of workouts to do at the gym each day
+* Written in Java
+* Program is used to help people who have a difficult time creating a daily workout to follow at the gym. 
+
