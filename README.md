@@ -3,7 +3,9 @@
 * Written in Java
 
 The reason why I created this:
-Whenever I go to the gym, I find it difficult to create a daily workout. So I created this app in order to solve this problem.
+* Whenever I go to the gym, I find it difficult to create a daily workout. So I created this app in order to solve this problem. 
+
+
 
 
 
